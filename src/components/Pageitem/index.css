@@ -1,0 +1,28 @@
+ul,li{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.uf{
+    float: right;
+}
+
+.pageli{
+    display: inline-block;
+    border-radius: 2px;
+    margin: 5px 8px 5px 0;
+    background-color: #fff;
+    line-height: 30px;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    border:solid 1px #ccc;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+.pageli:hover{
+    border:solid 1px #1890ff;
+}

@@ -1,0 +1,83 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "root",
+        "password": "123456"
+      }
+    ],
+
+    "goods": [
+      {
+        "id": 1,
+        "name": "测试1",
+        "price": 10,
+        "last":100,
+        "add":false
+      },
+      {
+        "id": 2,
+        "name": "测试2",
+        "price": 100,
+        "last":100,
+        "add":false
+      },
+      {
+        "id": 3,
+        "name": "测试3",
+        "price": 65,
+        "last":100,
+        "add":false
+      },
+      {
+        "id": 4,
+        "name": "测试4",
+        "price": 34,
+        "last":100,
+        "add":false
+      },
+      {
+        "id": 5,
+        "name": "测试5",
+        "price": 23,
+        "last":100,
+        "add":false
+      },
+      {
+        "id": 6,
+        "name": "测试6",
+        "price": 11,
+        "last":100,
+        "add":false
+      },
+      {
+        "id": 7,
+        "name": "测试7",
+        "price": 5,
+        "last":100,
+        "add":false
+      }
+    ],
+
+    "operating": [
+        {
+            "id":1,
+            "roomnum":100,
+            "use":false
+        }
+    ],
+
+    "book":[
+        {
+            "userid":1,
+            "iffree":true
+        }
+    ],
+
+    "personprice":[
+        {
+            "userid":1,
+            "sum":0
+        }
+    ]
+  }
